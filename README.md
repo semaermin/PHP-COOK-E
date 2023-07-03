@@ -1,2 +1,2 @@
-# PHP-COOK-E
+# PHP-COOKIE
 Cookie kullanarak alışveriş sepeti mantığı
